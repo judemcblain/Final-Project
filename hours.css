@@ -1,0 +1,9 @@
+BODY{
+    font-family: 'Mulish', sans-serif;  
+}
+.hours, .contact {
+    text-align: center;
+}
+.location,.name {
+    text-align: center;
+}
