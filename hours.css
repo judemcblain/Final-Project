@@ -1,7 +1,7 @@
 BODY{
     font-family: 'Mulish', sans-serif;  
 }
-.hours, .contact {
+.hours,.contact {
     text-align: center;
 }
 .location,.name {
