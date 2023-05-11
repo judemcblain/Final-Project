@@ -1,9 +1,30 @@
 BODY{
-    font-family: 'Mulish', sans-serif;  
+    font-family: 'Mulish', sans-serif; 
+    background-color: aquamarine;
 }
 .hours,.contact {
     text-align: center;
 }
-.location,.name {
+.location {
     text-align: center;
+    font-style: inherit;
+    font-size: medium;
+    color: darkslateblue;
+}
+
+h1,h2,h3 {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-style:italic ;
+    color: brown;
+}
+.name {
+    text-align: center;
+    
+}
+.name:hover {
+    color:red
+}
+body:hover{
+    background-color: blueviolet;
 }
