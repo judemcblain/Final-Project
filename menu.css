@@ -1,0 +1,50 @@
+body {
+  background-color: #618685;
+  font-family: 'Playfair Display', serif;
+  border: solid #fefbd8;
+}
+
+
+.container > div {
+    background-color: #618685;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+
+}
+
+.container {
+    display: grid;
+    background-color: #618685;
+    padding: 10px;
+    grid-template-columns: auto auto auto;
+    column-gap: 5px;
+
+}
+
+.img {
+  border-radius: 50%;
+  border: 1px solid #fefbd8;
+}
+  
+h1 {
+
+    color: #fefbd8;
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+  color: #fefbd8;
+  font-size: 17px;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+
+  .cocktail {
+    width: 80px;
+    height: 100px;
+    justify-content: center;
+  }
